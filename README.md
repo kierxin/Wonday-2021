@@ -1,4 +1,4 @@
-[![Screenshot from Wonday splash page](https://cdn.discordapp.com/attachments/865227670039560212/890754331555561482/wonday-sc-banner.png)](https://wonday-clone-of-monday.herokuapp.com/#/)
+[![Screenshot from Wonday splash page]([https://cdn.discordapp.com/attachments/865227670039560212/890754331555561482/wonday-sc-banner.png)](https://wonday-clone-of-monday.herokuapp.com/#/](https://photos.google.com/share/AF1QipPyH3wMN01fMBzP0WO7dNnGW6CLuYtsBRro2WyITxDp4qx5F0Gn83hFW3TD_916rg/photo/AF1QipODiaXteHyAnd_uI9Kv0uOfGBUW_4weNvQMkIol?key=dVFnRUVUT3dldDg1S3dTbXlxVVJPaWlBdnBENUtB))
 
 # Introduction
 
@@ -36,7 +36,7 @@ While Monday.com has several ways teams can manage their work, my timeframe requ
 
 ### On login, existing users are directed to an overview of one of their boards; new users are provided a new board.
 
-![Screenshot of Wonday project board](https://media.discordapp.net/attachments/865227670039560212/888440008850145381/wonday-sc-1.png)
+![Screenshot of Wonday project board]([https://media.discordapp.net/attachments/865227670039560212/888440008850145381/wonday-sc-1.png](https://photos.google.com/share/AF1QipPK3JybzRMIRlzLDlAGBZw6daJMq0u1X4hls4oPnOwAPIgx8c4wWu9Em9_W9TETAw/photo/AF1QipMPziLBnefnkZgR3qi6grWmsqMS1xzZW4aPQQSQ?key=QjFBUWJ6UFJXbzVEU0o2XzFOUC02MDUweGlTZW5n))
 
 
 ### Boards contain groups of tasks; users can perform full standard CRUD actions on boards and tasks. Each task has columns which users may edit: Title, Status ("done", "stuck," etc.), Deadline, and People (assigned to the task).
@@ -105,4 +105,4 @@ The next features I'd like to work on:
 - Users can be invited from the app via email
 - Groups of tasks can be re-ordered via drag-and-drop
 
-[![Screenshot from Wonday signup page](https://media.discordapp.net/attachments/865227670039560212/890755177869606922/wonday-sc-footer.png?width=1440&height=570)](https://wonday-clone-of-monday.herokuapp.com/#/)
+[![Screenshot from Wonday signup page]([https://media.discordapp.net/attachments/865227670039560212/890755177869606922/wonday-sc-footer.png?width=1440&height=570)](https://wonday-clone-of-monday.herokuapp.com/#/](https://photos.app.goo.gl/B8235eWXhCQUf4vq5))
