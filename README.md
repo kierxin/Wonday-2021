@@ -1,4 +1,5 @@
-[![Screenshot from Wonday splash page](https://photos.google.com/share/AF1QipPyH3wMN01fMBzP0WO7dNnGW6CLuYtsBRro2WyITxDp4qx5F0Gn83hFW3TD_916rg/photo/AF1QipODiaXteHyAnd_uI9Kv0uOfGBUW_4weNvQMkIol?key=dVFnRUVUT3dldDg1S3dTbXlxVVJPaWlBdnBENUtB)
+<img width="1467" height="602" alt="Screenshot 2026-06-17 at 18 51 14" src="https://github.com/user-attachments/assets/b9482b7e-2143-48ad-93bf-5e6190385ae0" />
+
 
 # Introduction
 
@@ -36,7 +37,7 @@ While Monday.com has several ways teams can manage their work, my timeframe requ
 
 ### On login, existing users are directed to an overview of one of their boards; new users are provided a new board.
 
-![Screenshot of Wonday project board](https://photos.google.com/share/AF1QipPK3JybzRMIRlzLDlAGBZw6daJMq0u1X4hls4oPnOwAPIgx8c4wWu9Em9_W9TETAw/photo/AF1QipMPziLBnefnkZgR3qi6grWmsqMS1xzZW4aPQQSQ?key=QjFBUWJ6UFJXbzVEU0o2XzFOUC02MDUweGlTZW5n)
+<img width="1468" height="793" alt="Screenshot 2026-06-17 at 18 54 09" src="https://github.com/user-attachments/assets/efa0e284-180d-4bb0-b093-0bd7c14797a8" />
 
 
 ### Boards contain groups of tasks; users can perform full standard CRUD actions on boards and tasks. Each task has columns which users may edit: Title, Status ("done", "stuck," etc.), Deadline, and People (assigned to the task).
@@ -105,4 +106,5 @@ The next features I'd like to work on:
 - Users can be invited from the app via email
 - Groups of tasks can be re-ordered via drag-and-drop
 
-[![Screenshot from Wonday about page](https://wonday-clone-of-monday.herokuapp.com/#/](https://photos.app.goo.gl/B8235eWXhCQUf4vq5)
+<img width="1469" height="794" alt="Screenshot 2026-06-17 at 18 55 28" src="https://github.com/user-attachments/assets/e1d9dd31-34c5-40a9-b1cf-263252061420" />
+
